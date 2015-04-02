@@ -5,9 +5,9 @@ Untorch referral tool open-source clone based on Laravel (PHP) & Bootstrap3.
 - **Demo** on : <http://unflare.yebsoft.com>
 - Screenshots: [Landing Page](https://github.com/younes0/unflare/blob/master/data/docs/unflare-step1.png), [Form submitted](https://github.com/younes0/unflare/blob/master/data/docs/unflare-step2.png)
 
-## Unflare vs Untorch 
+## Non-technical?
 
-Untorch's cost per referred email is $0.50. I'd say that's an **expensive CPA** (cost per action), especially when your product doesn't make money yet.
+Use [Kickofflab](http://kickofflabs.com/): <https://www.youtube.com/watch?t=160&v=QnPb8UvVC5o>
 
 ## Requirements
 
