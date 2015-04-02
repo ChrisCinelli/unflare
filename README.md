@@ -14,10 +14,6 @@ Untorch's cost per referred email is $0.50. I'd say that's an **expensive CPA** 
 - a [Dedicated Server](http://www.kimsufi.com/us/en/) or a [VPS hosting](https://www.digitalocean.com/pricing/) or anything that allows you to setup the required services (Nginx, PHP, PostgreSQL, Memcached, Node.js).
 - a [Mandrill account](Mandrillapp.com) (free up to 12 000 emails per month) to send & track emails
 
-## Do you need help to deploy?
-
-Send me your request at <younes.elbiache@gmail.com>, I'd be glad to help you!
-
 ## Setup
 
 - Setup Nginx and use configuration templates located in data/nginx
